@@ -1,2 +1,2 @@
 # Metal-Part-Rust-Detector
-Metal Part Rust Detector is an AI-powered app that identifies whether a metal component is rusty or clean using image classification. Trained with Teachable Machine and deployed via Streamlit, it helps automate quality checks by classifying uploaded or captured images in real-time with high accuracy.
+This project is a Streamlit web app that detects rust on metal surfaces using a Convolutional Neural Network (CNN). Users can upload an image, and the model predicts whether rust is present or not, displaying the result and confidence level. It’s simple, fast, and effective for visual rust inspection.
